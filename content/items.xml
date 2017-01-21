@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active description="GRRRRAAAAAAHHHH!!" gfx="satans_spout_icon.png" maxcharges="6" name="Satan's Spout" />
+</items>
